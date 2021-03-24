@@ -2,11 +2,11 @@
 <c2project>
     <name>Super Mario Bros</name>
     <description></description>
-    <version>1.0.0.0</version>
-    <author>Jcw87</author>
-    <author-email></author-email>
+    <version>1.20</version>
+    <author>Grantrocks</author>
+    <author-email>grantmac12345678911@outlook.com</author-email>
     <author-website>http://</author-website>
-    <app-id>com.jcw87.smb1</app-id>
+    <app-id>smb2.netlify.app</app-id>
     <unique-id>2p1qnu1nm3azu</unique-id>
     <saved-with-version>26200</saved-with-version>
     <used-plugins>
